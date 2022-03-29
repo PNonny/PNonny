@@ -1,11 +1,15 @@
 ## Hi👋, I'm Peeranat Anunteratat, Welcome to my Github profile 
 
 👨‍💻 สวัสดีครับ ผม พีรณัฐ อนันต์ธีรทัต หรือ นนท์ เป็นนักเรียนนักศึกษาที่มีความชื่นชอบและหลงไหลในการเขียนโปรแกรม มีความสนใจในเรื่องของเทคโนโลยีข่าวสารใหม่ๆ ชอบเรียนรู้สิ่งใหม่ๆและพัฒนาตัวเองอยู่เสมอ ทั้งในด้าน Hard Skills / Soft Skills ผมมีเป้าหมายคือการเป็น Software Engineer หรือนักพัฒนาระบบ ผมเป็น DEK66 กำลังเตรียมตัวสอบเข้ามหาวิทยาลัยในคณะ/สาขาที่ใฝ่ฝัน ถึงแม้ว่าผมจะเรียนจบวุฒิปวช.ความรู้ด้านวิชาการอาจไม่แน่นเท่าสายสามัญ แต่ผมพร้อมที่จะแข่งขันกับคนอื่นผมเชื่อว่าผมทำได้ ผมจะพิสูจน์ให้เห็นเองว่าผมมีศักยภาพมากพอที่จะเข้าไปเป็นนักศึกษาของอาจารย์ครับ
+
 <div align="center">
   <a href="https://github.com/PNonny">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PNonny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PNonny&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+## Skills and Experience
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +22,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47ivemwnnvn38iwi1o379snpv3unvpym4ozswbb33g&rid=giphy.gif&ct=s">
 </div>
   
-  ##
+## Social Media
  
 <div> 
   
